@@ -13,5 +13,8 @@ The data also that earthquakes with a magnitude of 4.5 and above occur in the mi
 ### Major Earthquakes
 The major earthquakes that occurred in that past 7 days clustered along coastal line of South American countries, Alaska, Australia and Asia.
 ![Major_Earthquakes.png](Major_Earthquakes.png)
+### All
+All the data(tectonic, Earthquakes and Major Earthquakes) can be viewed together as below. It can be duduced from the chart that, All earthquakes both major and minor lie along the tectonic plates.
+![All.png](All.png)
 
 
