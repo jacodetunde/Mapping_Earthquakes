@@ -12,6 +12,6 @@ The data also that earthquakes with a magnitude of 4.5 and above occur in the mi
 ![Earhquakes.png](Earhquakes.png)
 ### Major Earthquakes
 The major earthquakes that occurred in that past 7 days clustered along coastal line of South American countries, Alaska, Australia and Asia.
-![Major Earthquakes.png](Major Earthquakes.png)
+![Major_Earthquakes.png](Major_Earthquakes.png)
 
 
