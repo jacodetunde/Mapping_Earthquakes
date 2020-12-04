@@ -9,5 +9,5 @@ Tectonic plate is a section in which earth is cracked. From the analysis, it is 
 ![tectonic.png](tectonic.png).
 ### Earthquakes
 The data also that earthquakes with a magnitude of 4.5 and above occur in the middle and coastal line of  of the Pacific, Atlantic and Indian Ocean as its shows in the chart below.
-![Earthquakes.png](Earthquakes.png)
+![All.png](All.png)
 
