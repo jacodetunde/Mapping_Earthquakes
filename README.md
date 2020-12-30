@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 ## Objective
 This project aims to make the analysis of tectonic plates and major earthquakes easier for the user of the apps.
 It will provide a quick review of where tectonic plates lie in the world and where the major earthquakes occurred.
